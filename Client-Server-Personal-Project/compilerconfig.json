@@ -2,5 +2,9 @@
   {
     "outputFile": "ClientApp/src/CSS/main.css",
     "inputFile": "ClientApp/src/CSS/SASS/main.scss"
+  },
+  {
+    "outputFile": "ClientApp/src/components/CSS/NavMenu.css",
+    "inputFile": "ClientApp/src/components/CSS/SASS/NavMenu.scss"
   }
 ]
